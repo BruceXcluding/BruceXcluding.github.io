@@ -6,10 +6,10 @@ import { profile, projects, focusAreas } from './content'
 const github = profile.github
 const marqueeItems = [
   { title: 'AI Exploration', detail: 'Ideas into working systems', tone: 'violet' },
-  { title: 'Ryzen AI', detail: 'Stable Diffusion experiments', tone: 'blue' },
+  { title: 'Backbone Conductor', detail: 'Coding agent coordination', tone: 'blue' },
   { title: 'Open Source', detail: 'Building in public', tone: 'green' },
   { title: 'Creative Tech', detail: 'Digital experiences', tone: 'orange' },
-  { title: 'Edge Inference', detail: 'Snapdragon 8 Gen 2', tone: 'blue' },
+  { title: 'LLM Ops', detail: 'CUDA experiments', tone: 'blue' },
   { title: 'Vitis Libraries', detail: 'Compute / C++', tone: 'orange' },
   { title: 'Model Serving', detail: 'SGLang', tone: 'violet' },
   { title: 'Accelerated', detail: 'Hardware & software', tone: 'green' },

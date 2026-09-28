@@ -6,8 +6,8 @@ export const profile = {
 }
 
 export const projects = [
-  { number: '01', name: 'Ryzen AI', category: 'AI / PYTHON', repo: 'Stable_Diffusion_on_Ryzen_AI' },
-  { number: '02', name: 'Snapdragon AI', category: 'EDGE AI / PYTHON', repo: 'Inference_on_Snapdragon_8_Gen_2' },
+  { number: '01', name: 'Backbone Conductor', category: 'AGENT SYSTEMS / PYTHON', repo: 'backbone-conductor' },
+  { number: '02', name: 'LLM OP Deployment', category: 'CUDA / EXPERIMENTS', repo: 'LLM_OP_Deployment' },
   { number: '03', name: 'Vitis Libraries', category: 'COMPUTE / C++', repo: 'Vitis_Libraries' },
 ]
 
